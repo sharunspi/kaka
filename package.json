@@ -1,0 +1,30 @@
+{
+  "name": "ka-ka",
+  "version": "0.0.1",
+  "description": "ka-ka tune library for react !",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharunspi/kaka.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "tune",
+    "tune",
+    "react",
+    "hooks"
+  ],
+  "author": "kksharun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharunspi/kaka/issues"
+  },
+  "homepage": "https://github.com/sharunspi/kaka#readme",
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
+}
